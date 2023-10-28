@@ -7,7 +7,7 @@ products:
 - azure-cognitive-search
 - azure-cognitive-services
 name: Generate Image Embeddings Custom Skill
-urlFragment: readapi-ocr-customskill
+urlFragment: azure-cognitive-search-generate-embeddings-skill
 description: This custom skill enables 
 ---
 # Generate Image Embeddings Custom Skill for Azure Cognitive Search
